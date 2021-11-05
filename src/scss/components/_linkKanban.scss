@@ -86,9 +86,9 @@
     }
 
     &-items {
+      padding: rem(6px) 0;
       max-height: calc(100vh - 250px);
       overflow-x: hidden;
-      overflow-y: auto;
     }
   }
 
